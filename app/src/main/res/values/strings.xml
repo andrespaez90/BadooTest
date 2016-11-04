@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BadooTest</string>
+    <string name="format.count_transactions">%1$d Transactions</string>
+</resources>
